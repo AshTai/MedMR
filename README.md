@@ -3,9 +3,9 @@
  
 To install this package, please copy and paste following codes into your R session:
 
-install.packages("devtools")
-library(devtools)
-install_github("AshTai/MedMR")
+1. install.packages("devtools")
+2. library(devtools)
+3. install_github("AshTai/MedMR")
 
 
 ## Example
