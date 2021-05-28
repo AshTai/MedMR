@@ -7,8 +7,9 @@ install.packages("devtools")
 library(devtools)
 install_github("AshTai/MedMR")
 
-Example
 
+## Example
+```R
 library(MedMR)
 data("HCCexample")
 ff <- MedMR(data=HCCexample,exposure="a",mediators=c("m1","m2"),outcome="y",
@@ -23,5 +24,8 @@ seed_num = 123,
 double_mont = 1e5,
 single_mont = 2e5,
 b_rep = TRUE)
+```
 
-An-Shun Tai (anshuntai@nctu.edu.tw) https://anshuntai.weebly.com
+## Contact information
+An-Shun Tai ([anshuntai@nctu.edu.tw](mailto:anshuntai@nctu.edu.tw))
+https://anshuntai.weebly.com
