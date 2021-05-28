@@ -1,5 +1,4 @@
-# MedMR
- Multiply robust estimation of natural indirect effects with multiple ordered mediators.
+# MedMR: Multiply robust estimation of natural indirect effects with multiple ordered mediators.
  To install this package, please copy and paste following codes into your R session:
 
 1. install.packages("devtools")
