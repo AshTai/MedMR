@@ -78,5 +78,5 @@ single_mont = 2e5,
 b_rep = TRUE)
 }
 \author{
-An-Shun Tai \email{anshuntai@nctu.edu.tw} Chen-Chien Lee\email{xu3t6fu0@gmail.com}
+An-Shun Tai \email{anshuntai@nctu.edu.tw} and Chen-Chien Lee \email{xu3t6fu0@gmail.com}
 }
